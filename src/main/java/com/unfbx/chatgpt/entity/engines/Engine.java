@@ -22,5 +22,6 @@ public class Engine implements Serializable {
     private Object permissions;
     private long created;
     private String test;
+    private String test2;
 
 }
