@@ -21,5 +21,6 @@ public class Engine implements Serializable {
     private boolean ready;
     private Object permissions;
     private long created;
+    private String test;
 
 }
